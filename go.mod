@@ -1,4 +1,4 @@
-module github.com/dpotapov/go-spnego
+module github.com/yo000/go-spnego
 
 go 1.12
 
